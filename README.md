@@ -1,9 +1,8 @@
-Startup
+Startup 
+ 
+TESTING:
 
-Hei Vilde :)
-
-Forsøk nr 4
-
-Her kan man skrive alt man vil og enda mere til
-
-NKVO!!
+ 1 Lager en branch lokalt først
+ 2 Endrer på denne filen
+ 3 "Push'er" Develop.Vilde
+ 4 merge to master
