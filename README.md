@@ -2,8 +2,6 @@ Startup
 
 Hei Vilde :)
 
-Forsøk nr 2....
+Forsøk nr 4
 
-Hei Vilde :)
-
-Hei Tom! 
+Her kan man skrive alt man vil og enda mere til
